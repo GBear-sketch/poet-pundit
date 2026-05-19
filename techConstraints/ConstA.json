@@ -1,0 +1,182 @@
+[
+    {
+        "type": "Syllabic",
+        "name": "The Binary Cadence",
+        "difficulty": "Easy",
+        "rule_text": "The poem must consist of exactly four lines that maintain an alternating syllabic weight. Lines one and three must contain exactly eight syllables, while lines two and four must contract sharply to exactly four syllables. No variance or slant-metrics will be tolerated by the committee."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Truncated Hexameter",
+        "difficulty": "Easy",
+        "rule_text": "The writer must construct a six-line stanza where every single line is structurally capped at exactly six syllables. This flat, unyielding horizontal boundary forces the poetic line to abandon empty adjectives and focus entirely on stark, monosyllabic nouns."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Diminishing Ledger",
+        "difficulty": "Easy",
+        "rule_text": "A simple exercise in structural erosion. The submission must contain exactly four lines, where line one has ten syllables, line two has eight syllables, line three has six syllables, and line four collapses to four syllables. The poem must physically mimic a structural downscaling."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Incremental Threshold",
+        "difficulty": "Easy",
+        "rule_text": "The inverse of erosion. The poet must deliver a four-line sequence that expands mechanically: line one must feature exactly four syllables, line two must feature six, line three must feature eight, and line four must culminate in exactly ten syllables."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Alexandrine Quarantine",
+        "difficulty": "Easy",
+        "rule_text": "The user must write a poem composed of exactly three couplets. Every line within these couplets must conform precisely to the traditional French Alexandrine measure of twelve syllables, enforcing a balanced, classical symmetry across the entire text."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Sijo Equilibrium",
+        "difficulty": "Easy",
+        "rule_text": "The submission must adapt the traditional three-line structure of the Korean Sijo format. Line one must maintain a count of 14 to 16 syllables, line two must follow with 14 to 16 syllables, and line three must introduce a narrative twist within a strict 15-syllable ceiling."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Caesura Mandate",
+        "difficulty": "Easy",
+        "rule_text": "The poem must feature exactly five lines, each containing precisely ten syllables. Crucially, every line must introduce a visible punctuation mark (a comma, em-dash, or period) exactly at the fifth syllable, creating a uniform, mechanical axis down the spine of the poem."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Trochaic Monolith",
+        "difficulty": "Medium",
+        "rule_text": "The poet must deliver an eight-line poem written entirely in strict trochaic meter (stressed followed by unstressed syllables), where every line contains precisely seven syllables. The line must terminate on a stressed syllable, achieving an aggressive, cataloging rhythm."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Sapphic Enclosure",
+        "difficulty": "Medium",
+        "rule_text": "The poem must consist of exactly four lines that mirror a modified Sapphic strophic architecture. Lines one, two, and three must contain exactly eleven syllables each, while the final line must collapse into an adonic line of exactly five syllables, sealing the stanza."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Decasyllabic Cross",
+        "difficulty": "Medium",
+        "rule_text": "The submission must adhere to a strict ABAB rhyme scheme, where every A-line contains exactly ten syllables and every B-line contains exactly five syllables. The rhymes must be masculine and perfect; slant rhymes will be treated as an administrative failure."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Envelope Chiasmus",
+        "difficulty": "Medium",
+        "rule_text": "Construct an enclosed quatrain (ABBA scheme) where the syllabic architecture mirrors the rhyme structure. Lines one and four must contain exactly nine syllables, while the internal lines (two and three) must be compressed to exactly five syllables."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Amphibrachic Drift",
+        "difficulty": "Medium",
+        "rule_text": "The entire poem must be composed of exactly six lines, written exclusively using amphibrachic metrical feet (short-long-short). Every line must contain exactly three of these feet, resulting in a strict nine-syllable rhythm that captures a fluid, rolling momentum."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Double-Headed Septet",
+        "difficulty": "Medium",
+        "rule_text": "The poet must write a seven-line poem where the first and final lines must contain exactly fourteen syllables. All interior lines (two through six) are severely restricted to a tight, unyielding ceiling of exactly seven syllables, framing the text in a structural vise."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Iambic Interlock",
+        "difficulty": "Medium",
+        "rule_text": "A rigorous metical constraint requiring exactly six lines of alternating iambic pentameter (ten syllables) and iambic trimeter (six syllables). The poem must utilize an ABABCC rhyme scheme, where the final rhymed couplet must match the ten-syllable measure perfectly."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Quatrain Squeeze",
+        "difficulty": "Medium",
+        "rule_text": "The writer must present a four-line poem where the rhyme scheme is AABB. However, the syllable counts must contract radically with each rhyme pair: lines one and two must feature twelve syllables each, while lines three and four must drop instantly to exactly four syllables each."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Fibonacci Spiral",
+        "difficulty": "Hard",
+        "rule_text": "The poem's line lengths must be governed strictly by the mathematical Fibonacci sequence. The poem must contain exactly six lines, where the syllable count for each line corresponds precisely to the progression: 1, 1, 2, 3, 5, 8. Each word must be rationed with surgical intent."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Palindromic Stanza",
+        "difficulty": "Hard",
+        "rule_text": "The user must engineer an eight-line poem where the syllable counts create a perfect numerical palindrome across the lines. The metric blueprint must read precisely as follows: 8, 6, 4, 2, 2, 4, 6, 8. Any deviation in scanning will result in instant disqualification."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Specular Reflection",
+        "difficulty": "Hard",
+        "rule_text": "The poem must be divided into exactly two stanzas of four lines each. The syllable counts of the first stanza (Line 1: 10, Line 2: 7, Line 3: 5, Line 4: 3) must be reflected as an exact inverted mirror image in the second stanza (Line 5: 3, Line 6: 5, Line 7: 7, Line 8: 10)."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Prime Number Partition",
+        "difficulty": "Hard",
+        "rule_text": "The structure of the poem is bound to the sequence of prime numbers. The submission must contain exactly five lines, and the syllable counts for lines one through five must sequentially map to the first five primes: 2, 3, 5, 7, and 11."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Non-Euclidean Nonet",
+        "difficulty": "Hard",
+        "rule_text": "The user must compose a nine-line poem where the syllable counts decrease continuously from nine to one (Line 1 has 9, Line 2 has 8, down to Line 9 with 1 syllable). Crucially, the poem must also maintain an interlocking chain rhyme scheme (ABA BCB CDC)."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Dactylic Iron Cage",
+        "difficulty": "Hard",
+        "rule_text": "The text must consist of exactly five lines written in flawless dactylic meter (one stressed followed by two unstressed syllables). Line one must feature four dactylic feet (12 syllables), and each subsequent line must shed exactly one foot, terminating in a single-foot fifth line (3 syllables)."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Anapestic Matrix",
+        "difficulty": "Hard",
+        "rule_text": "The entire submission must be composed of exactly four lines of anapestic meter (two unstressed followed by one stressed syllable). The line lengths are bound to a strict, alternating grid: lines one and three must contain twelve syllables, while lines two and four must contain exactly nine."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Monosyllabic Eclipse",
+        "difficulty": "Brutal",
+        "rule_text": "The ultimate exercise in vocabulary isolation. The writer must present a poem of exactly twelve lines where every single line is composed of exactly five words, and every single word across the entire text must be strictly monosyllabic. A single multi-syllabled token destroys the grid."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Ghost Haiku Trap",
+        "difficulty": "Brutal",
+        "rule_text": "The user must write a poem of exactly three stanzas containing three lines each. While the poem must look like free verse, if the reader extracts the first word of every line across the stanzas, those words when scanned sequentially must form a hidden, perfect 5-7-5 haiku structure."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Polysyllabic Escalation",
+        "difficulty": "Brutal",
+        "rule_text": "A brutal structural constraint where word lengths must dictate the line. The poem must be exactly five lines long. Line one must consist entirely of monosyllabic words; line two must consist entirely of two-syllable words; line three must feature only three-syllable words, continuing up to line five."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Constant Pi Equation",
+        "difficulty": "Brutal",
+        "rule_text": "The mathematical constant Pi must dictate the entire horizontal architecture of the poem. The submission must contain exactly six lines, and the syllable counts for each line must correspond precisely to the first six digits of Pi: 3, 1, 4, 1, 5, and 9."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Absolute Isosyllabic Grid",
+        "difficulty": "Brutal",
+        "rule_text": "The poet must deliver a poem that forms a perfect square matrix of text. The submission must consist of exactly eleven lines, every single line must contain exactly eleven syllables, and the poem must use a single, unyielding monorhyme (AAAAAAA...) across all eleven line endings."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Spenserian Asymmetry",
+        "difficulty": "Brutal",
+        "rule_text": "The submission must consist of exactly two stanzas conforming to an exhaustive, interwoven metric framework. Lines 1-8 must scan as flawless iambic pentameter (10 syllables), while the 9th line must expand into an unyielding iambic hexameter (12 syllables). Rhyme scheme must strictly be ABABBCBCC."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Symmetrical Hourglass",
+        "difficulty": "Brutal",
+        "rule_text": "The user must construct a nine-line poem whose syllable counts trace the physical shape of an hourglass. The counts per line must strictly follow this sequence: 12, 10, 8, 6, 2, 6, 8, 10, 12. Slant metrics or uneven syllable stresses will result in an immediate failing grade."
+    },
+    {
+        "type": "Syllabic",
+        "name": "The Monolithic Choriambic Wall",
+        "difficulty": "Brutal",
+        "rule_text": "The poet must construct a six-line poem written exclusively in classical choriambic feet (one long, two short, one long). Every line must contain exactly three choriambs, resulting in a completely unyielding 12-syllable line that outlaws standard English speech rhythms entirely."
+    }
+]

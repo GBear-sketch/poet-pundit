@@ -1,0 +1,212 @@
+[
+    {
+        "type": "Rhetorical",
+        "name": "The Interrogative Interlock",
+        "difficulty": "Easy",
+        "rule_text": "The poem must be split into exactly three stanzas, and each stanza must terminate with exactly one complete, direct question. The preceding lines of the stanza must build the material or emotional architecture required to give that closing question its specific weight."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Thesis-Antithesis Couplet",
+        "difficulty": "Easy",
+        "rule_text": "The poet must construct a four-line poem composed of exactly two couplets. The first couplet must make a flat, dogmatic declaration of absolute certainty, while the second couplet must instantly introduce an empirical exception that neutralizes the initial claim."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Cataloging Litany",
+        "difficulty": "Easy",
+        "rule_text": "The entire text must operate as a strict rhetorical enumeration or inventory. Every line must add exactly one material item, domestic artifact, or logistical deficit to a growing list, using a flat, declarative delivery that avoids narrative digressions."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Negative Definition",
+        "difficulty": "Easy",
+        "rule_text": "The writer must define a core subject or emotion exclusively by stating what it is not. Every stanza must begin with the phrase 'It is not...' or 'There is no...', building a portrait of the subject entirely through the systematic accumulation of negative space."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Clockwork Descent",
+        "difficulty": "Easy",
+        "rule_text": "The structural progression of the thoughts must follow a strict, chronological countdown. The poem must begin at a specific hour (e.g., 'At five o'clock...') and mark a sequential decline in light, energy, or resource with every subsequent stanza."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Spatial Pan",
+        "difficulty": "Easy",
+        "rule_text": "The text must follow a precise geometric trajectory of focus. Stanza one must detail an object miles away on the horizon; stanza two moves to the immediate street outside; stanza three terminates on a raw physical sensation inside the speaker's own throat."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Cause-and-Effect Split",
+        "difficulty": "Easy",
+        "rule_text": "A simple architectural division. Stanza one must outline a single, cold physical or economic action (e.g., a signature on a paper, a dropped tool). Stanza two must map out the delayed, compounding material consequences that ripple out from that event."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Categorical Volta",
+        "difficulty": "Medium",
+        "rule_text": "The poem must be divided into exactly three stanzas. The first two stanzas must establish a rigid, defensive premise or personal philosophy. The third stanza must execute a total ideological betrayal, completely reversing and dismantling the logic of the opening lines."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Syllogistic Collapse",
+        "difficulty": "Medium",
+        "rule_text": "The text must strictly mimic a classical logical syllogism. Stanza one must present a major premise; stanza two delivers a minor, localized premise; stanza three draws a necessary, devastating conclusion. The tone must remain clinical, exposing the brutality of pure deduction."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Apostrophe Quarantine",
+        "difficulty": "Medium",
+        "rule_text": "The poet must direct the second stanza of the poem entirely to an inanimate object or an absent institution (e.g., addressing a bank vault or a broken machine). The surrounding stanzas must remain strictly detached and objective, isolating the moment of address."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Scale Inversion",
+        "difficulty": "Medium",
+        "rule_text": "The poem must execute a sudden shift in rhetorical scale at its midpoint. If the first stanza analyzes a massive global network (e.g., container shipping logistics), the second stanza must map that exact same logistical pattern onto a tiny domestic space (e.g., sorting medicine bottles)."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Irony of the Appendix",
+        "difficulty": "Medium",
+        "rule_text": "The poet must write a short, serious lyric text, but append a single, final line formatted as a dispassionate, legalistic footnote or administrative disclaimer. This appended text must completely subvert or expose the economic cost of the emotional statements made above."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Iron Clad Apologia",
+        "difficulty": "Medium",
+        "rule_text": "The submission must be framed as a formal legal defense or public apology for an administrative or romantic failure. The rhetoric must utilize the self-justifying jargon of institutional damage control, while the sensory imagery quietly leaks the truth of the collapse."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Accelerated Perspective",
+        "difficulty": "Medium",
+        "rule_text": "Each stanza must multiply the duration of time it covers. Stanza one captures a single second (a heart skip); stanza two spans a full shift of labor; stanza three covers a decade of decline on a single street block, accelerating the text through history."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Witness Interrogation",
+        "difficulty": "Medium",
+        "rule_text": "The structure must alternate between a cold, unstated interrogator's prompt and a witness's material observation. Odd lines must represent the clinical questions (implied through syntax), while even lines provide the sharp, unromanticized sensory evidence."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Paradox Matrix",
+        "difficulty": "Medium",
+        "rule_text": "Every couplet must revolve around a central, economic or physical paradox (e.g., the more hours sold, the less time retained). The lines must balance this logical contradiction with razor-sharp imagery, showing that survival under capital requires navigating impossible math."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Refusal of the Lyric",
+        "difficulty": "Medium",
+        "rule_text": "The speaker must explicitly declare their refusal to romanticize or elevate the scene within the poem itself. The rhetoric must critique its own tools, actively punishing the temptation to use soft metaphors to mask a hard, working-class reality."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Diagnostic Blueprint",
+        "difficulty": "Hard",
+        "rule_text": "The entire poem must be structured as an official industrial repair manual, a mechanical troubleshooting guide, or a systems diagnostic printout. The text must utilize formal technical categories ('Symptom', 'Isolate Cause', 'Remediation Step') while maintaining heavy poetic imagery about a human breakdown."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Double Blind Protocol",
+        "difficulty": "Hard",
+        "rule_text": "The text must follow a parallel rhetorical track. Odd-numbered lines must describe a biological process or human sensory event, while even-numbered lines provide a simultaneous, automated computer analysis of that exact same event, treating the human as a monitored specimen."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Audited Invoice",
+        "difficulty": "Hard",
+        "rule_text": "Structure the entire poetic statement as an itemized corporate expense report or liquidation ledger. Each line or stanza must begin with a specific financial charge or quantity, followed by a dense, evocative description of the physical wear, emotional labor, or time sacrificed to justify that cost."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Dynamic Risk Assessment",
+        "difficulty": "Hard",
+        "rule_text": "The poem must follow the strict architecture of an occupational safety or hazard assessment matrix. The text must methodically evaluate a specific everyday space (e.g., a commuter platform, a kitchen table) solely through the probabilities of structural failure, contamination, or emotional collapse."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Palindromic Argument",
+        "difficulty": "Hard",
+        "rule_text": "The rhetorical progression must reverse at the midpoint. If stanzas 1-3 build an argument toward a specific choice, stanzas 4-6 must use the exact same logic, lines, or concepts in reverse order to prove that the choice is utterly impossible, collapsing the thesis."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Census Questionnaire",
+        "difficulty": "Hard",
+        "rule_text": "The poem must adapt the formal structure of a state census or housing intake survey. The lines must process a family's historical trauma entirely through the options of checkboxes and standardized fields, tracking how the state flattens human grief into demographic statistics."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Split Screen Ledger",
+        "difficulty": "Hard",
+        "rule_text": "The text must maintain an absolute dual perspective. The left side of each line must document the cold, official administrative record of an event, while the right side of the line (separated by a clear caesura or axis) records the quiet, somatic, unvocalized reality of the body enduring it."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Environmental Impact Report",
+        "difficulty": "Hard",
+        "rule_text": "The writer must frame the text as a cold, scientific impact assessment analyzing the long-term ecological and physical degradation caused by a single, minor human action or relationship split, treating an emotional rupture with geological detachment."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Counter-Mapping Manifesto",
+        "difficulty": "Hard",
+        "rule_text": "The poem must systematically challenge a formal municipal map or corporate city blueprint. The rhetoric must take the official names of streets, zones, and developments and replace them with the gritty, sensory descriptions of what actually occurs on those corners, rewriting geography from below."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Perpetual Ouroboros Loop",
+        "difficulty": "Brutal",
+        "rule_text": "The final line of the poem must integrate perfectly—both grammatically and thematically—back into the exact phrasing of the first line. The text must lock itself into an infinite, circular circuit that offers no exit or resolution, trapping the speaker and reader inside a permanent cycle of kinetic stagnation."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Algorithm’s Autopsy Report",
+        "difficulty": "Brutal",
+        "rule_text": "The entire poem must be written from the perspective of an automated, post-human database analyzing the remnants of human civilization or a single dead worker's digital trail. The rhetoric must be entirely devoid of human empathy, evaluating flesh, poetry, and love purely as inefficient allocations of carbon and processing time."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Total Lexical Reductio",
+        "difficulty": "Brutal",
+        "rule_text": "A brutal constraint in thematic contraction. The poem must be exactly four stanzas. Stanza one can use any vocabulary. Stanza two can only use words introduced in stanza one. Stanza three can only use words from stanza two, continuing until stanza four collapses into a tight, repetitive knot of absolute linguistic exhaustion."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Contradictory Treaty Matrix",
+        "difficulty": "Brutal",
+        "rule_text": "Every single line across the submission must contain a statement that is logically or physically incompatible with the statement made in the line immediately preceding it. The syntax must remain flawless, forcing the text to construct a space where two opposing laws of reality are simultaneously true."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Unappealable Severance Order",
+        "difficulty": "Brutal",
+        "rule_text": "The text must follow the format of a automated termination letter from an HR system or a corporate bankruptcy decree. The poetry must be buried entirely within the clinical, terrifying selection of bureaucratic codes and standard notifications that wipe out a life’s contribution with zero avenue for human review."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Non-Euclidean Dialogue",
+        "difficulty": "Brutal",
+        "rule_text": "The poem must present a conversation between two entities (e.g., a worker and a system, or two estranged lovers). However, the responses must be structurally shifted: the reply in line two must answer a question that will not be asked until line six, locking the dialogue in a time-bent logical vise."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Absolute Zero Erasure",
+        "difficulty": "Brutal",
+        "rule_text": "The poem must systematically erase its own imagery line by line. If line one introduces a physical object (e.g., a coin), line two must document its loss, and line three must erase the memory of the loss, ensuring that by the final line, the text has completely liquidated its own vocabulary into an absolute void."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Sovereign Debt Covenant",
+        "difficulty": "Brutal",
+        "rule_text": "The poem must be written as a multi-stage structural adjustment program or loan default decree issued by an international central bank. The speaker's life, physical health, and personal memories must be explicitly offered up as collateral, evaluated solely through their spot liquidation value on the market floor."
+    },
+    {
+        "type": "Rhetorical",
+        "name": "The Stigmergic Assembly",
+        "difficulty": "Brutal",
+        "rule_text": "The text must replicate the unguided coordination of social insects. No singular commanding perspective or 'I' is permitted; each line must be structured as an automated reaction triggered solely by the physical state left by the preceding line, building a complex, unfeeling hive monument out of text coordinates."
+    }
+]
