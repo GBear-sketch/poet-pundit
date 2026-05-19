@@ -1,0 +1,212 @@
+[
+    {
+        "type": "Grammatical",
+        "name": "The Adjectival Quarantine",
+        "difficulty": "Easy",
+        "rule_text": "The poet must completely strip the text of all descriptive modifiers. Not a single adjective may appear in the submission. The imagery must be driven entirely by the raw, unpolished weight of nouns and active verbs, forcing the reader to face concrete objects without decorative padding."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Adverbial Exorcism",
+        "difficulty": "Easy",
+        "rule_text": "A mandate for absolute velocity of action. The entire poem must be written without a single adverb. Words terminating in '-ly' or modifiers that qualify a verb’s tempo, direction, or intensity are outlawed. The action must speak for itself without structural hedging."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Nominal Purity",
+        "difficulty": "Easy",
+        "rule_text": "The user must write a poem containing exactly four lines where pronouns are entirely banned. Every entity, actor, or object must be named explicitly by its proper or common noun. Replacing a name with 'he', 'she', 'it', 'they', or 'you' will be treated as a failure of specificity."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Present Tense Monolith",
+        "difficulty": "Easy",
+        "rule_text": "The entire text must be anchored strictly in the immediate present tense. Not a single verb may slip into the past or the future. The poem must read as an ongoing, inescapable sequence of actions occurring in real-time under a frozen chronological frame."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Imperative Decree",
+        "difficulty": "Easy",
+        "rule_text": "The poem must be composed entirely of command sentences. Every line must feature a verb in the imperative mood, explicitly directing an action or forcing a perspective. The text must read like a military manifesto or an administrative checklist for survival."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Conjunction Blockade",
+        "difficulty": "Easy",
+        "rule_text": "The writer must employ absolute asyndeton. The use of coordinating or subordinating conjunctions—including 'and', 'but', 'or', 'so', and 'because'—is completely prohibited. Lines and clauses must collide against one another through punctuation alone, leaving no connective tissue."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Prepositional Ceiling",
+        "difficulty": "Easy",
+        "rule_text": "The submission must limit its spatial coordinate tracking. Across the entire poem, the writer is permitted to use a maximum of exactly three prepositions (such as 'in', 'on', 'under', 'through'). The relationships between objects must be established without relying on locational crutches."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Monoverbal Prefix",
+        "difficulty": "Medium",
+        "rule_text": "Every single line of the poem must begin with exactly one active, transitive verb. This initial verb sets the entire trajectory of the line, immediately launching a clause into motion. The rest of the line may expand on the action, but the mechanical engine must always be frontloaded."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Gerundive Anchor",
+        "difficulty": "Medium",
+        "rule_text": "The poet must terminate every single line with a gerund (a verb ending in '-ing' functioning as a noun or continuous action). This pattern establishes a rhythmic, looping auditory frame across the text, trapping the poem's imagery in a state of permanent, unresolved motion."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Interrogative Frame",
+        "difficulty": "Medium",
+        "rule_text": "The submission must consist of exactly five lines, and every single line must be a complete, grammatically correct question. Statements or fragments are prohibited; the entire poetic arc must be expressed through the syntax of investigation, doubt, or bureaucratic cross-examination."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Article Extinction",
+        "difficulty": "Medium",
+        "rule_text": "The writer must eliminate the markers of reference. The words 'the', 'a', and 'an' are completely banned from the text. This structural omission flattens the language into a brutal, telegrammatic architecture where nouns exist as absolute concepts rather than specific instances."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Infinitive Split",
+        "difficulty": "Medium",
+        "rule_text": "A deliberate sabotage of classical syntax. The poet must introduce exactly one split infinitive into every couplet of the poem (e.g., 'to quietly suffer'). The adverb must wedge itself violently between the marker 'to' and the base verb, creating a localized architectural fracture."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Copulative Tax",
+        "difficulty": "Medium",
+        "rule_text": "The user must construct a poem where every line follows a strict subject-linking verb-predicate noun architecture. This structural model reduces poetic expression to a series of flat definitions or clinical diagnoses, eliminating all dynamic physical action from the landscape."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Subordinate Cascade",
+        "difficulty": "Medium",
+        "rule_text": "The entire poem must be composed of a single, continuous complex sentence. The text must feature at least four nested subordinate clauses before finally arriving at the main independent clause in the final line, mimicking the bureaucratic delays of an institutional process."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Prepositional Axis",
+        "difficulty": "Medium",
+        "rule_text": "Every line must follow an unyielding structural grid: it must begin with a prepositional phrase detailing a location or trajectory, followed immediately by a single independent clause. The physical landscape must be established before any human actor is permitted to speak."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Comparative Scale",
+        "difficulty": "Medium",
+        "rule_text": "The poet must organize the text around the syntax of measurement. Every stanza must feature exactly two comparative adjectives or adverbs terminating in '-er' or utilizing 'more'. The poem must systematically balance or contrast assets, deficits, or weights across lines."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Plurality Monolith",
+        "difficulty": "Medium",
+        "rule_text": "The text must completely abandon the concept of the individual. Every single noun, pronoun, and corresponding verb throughout the poem must be strictly plural. The perspective must remain locked in the collective, the corporate, or the unnumbered mass; the singular 'I' is illegal."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Lexical Shift",
+        "difficulty": "Hard",
+        "rule_text": "An exercise in functional conversion or anthimeria. The user must force at least three nouns to operate strictly as active verbs within the text, and convert at least two verbs into static nouns. The language must be wrenched out of its traditional grammatical categories to survive."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Syntactic Mirror",
+        "difficulty": "Hard",
+        "rule_text": "The poem must be divided into exactly two stanzas of four lines each. The precise part-of-speech sequence of the first stanza (e.g., Noun, Verb, Preposition, Adjective, Noun) must be repeated identically in every corresponding line of the second stanza, creating a perfect grammatical duplicate."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Passive Erasure",
+        "difficulty": "Hard",
+        "rule_text": "The text must be written exclusively in the passive voice. Active agency must be completely scrubbed from the grid; actions must be performed *upon* objects by unstated or distant actors (e.g., 'The fine was issued'). This framework reframes the poem as an administrative record of automated events."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Intransitive Lock",
+        "difficulty": "Hard",
+        "rule_text": "The poet is forbidden from using any transitive verbs. Every single action in the poem must be strictly intransitive, meaning no action can terminate on a direct object or affect an external entity (e.g., 'The iron rusts'). The text must depict a world of self-contained, isolated processes."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Absolute Participle",
+        "difficulty": "Hard",
+        "rule_text": "Every line of the submission must begin with an absolute nominative participle phrase (e.g., 'The money having vanished, ...'). This grammatical configuration forces every observation to be preceded by an independent, unyielding contextual condition, locking the present in the shadow of prior events."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Chiasmus of Speech",
+        "difficulty": "Hard",
+        "rule_text": "The poem must consist of exactly a four-line stanza where the parts of speech form an inverted cross. If line one follows the sequence: Noun-Verb-Adjective-Noun, then line four must execute: Noun-Adjective-Verb-Noun. Lines two and three must mirror each other using a separate part-of-speech inversion."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Polysyndetic Weight",
+        "difficulty": "Hard",
+        "rule_text": "The writer must over-saturate the grammatical framework. Every single noun or independent clause across the text must be connected by the explicit repetition of the coordinating conjunction 'and'. No commas are permitted to substitute; the text must read as a crushing, compounding list of material realities."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Monopronomial Split",
+        "difficulty": "Hard",
+        "rule_text": "The poem must contain exactly two actors, but the writer is restricted to using a single, ambiguous gender-neutral pronoun ('they' or 'it') to refer to both entities simultaneously. The grammatical syntax must remain pristine, forcing the reader to navigate identity entirely through contextual friction."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Conditional Sentence",
+        "difficulty": "Hard",
+        "rule_text": "The entire poem must be structured as a single, massive counterfactual conditional sentence (an 'If-Then' architecture). The first three stanzas must outline the elaborate, hypothetical parameters of the condition ('If...'), while the final line delivers the independent clause ('Then...'), framing reality as a grand calculation."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Subjunctive Vault",
+        "difficulty": "Hard",
+        "rule_text": "The poem must be composed entirely within the subjunctive mood, exploring spaces of desire, unreality, or systemic doubt. Verbs must utilize their non-indicative forms (e.g., 'Were he to arrive,' 'lest the balance fail'). Not a single sentence is permitted to make a flat declaration of verified fact."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The E-Prime Decree",
+        "difficulty": "Brutal",
+        "rule_text": "The ultimate grammatical filtration. The user must write a poem without a single verb of being. Every iteration of 'is', 'was', 'am', 'were', 'be', 'been', and 'being' is completely banned. The text must rely entirely on active, dynamic transitives; things cannot simply exist—they must act or endure."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Isosyntactic Monolith",
+        "difficulty": "Brutal",
+        "rule_text": "The poet must deliver a six-line poem where every line follows an identical word-count and part-of-speech sequence down to the character scale. If line one is exactly: Article, Noun, Transitive Verb, Preposition, Article, Noun—then every subsequent line must copy that precise grammatical footprint without a single word variation."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Tautological Loop",
+        "difficulty": "Brutal",
+        "rule_text": "Every couplet within the submission must contain a strict grammatical tautology. The predicate must repeat the exact semantic information provided by the subject, but it must be executed using an alternative syntactic path or converted part of speech, locking the logic in an unbreakable, absurd circle."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Disjunctive Grid",
+        "difficulty": "Brutal",
+        "rule_text": "The entire poem must be constructed without using a single main independent clause. The submission must be composed entirely of fragments, dependent relative clauses, and absolute modifiers that never coalesce into a formal grammatical sentence, capturing the sensation of an unravelling network."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Non-Deictic Void",
+        "difficulty": "Brutal",
+        "rule_text": "The poet must completely scrub the text of all deictic expressions. Words whose meanings depend entirely on a specific spatial or temporal perspective—such as 'here', 'there', 'now', 'then', 'yesterday', 'this', or 'that'—are strictly illegal. The imagery must be rendered from an absolute, cosmic perspective."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Case-Inflected Iron Cage",
+        "difficulty": "Brutal",
+        "rule_text": "The poet must organize the words so that the lines strictly replicate the case progression of classical Latin. Line one must feature only words acting in the nominative case; line two moves to the genitive; line three to the dative; line four to the accusative; and line five terminates in the ablative."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Pronominal Purge",
+        "difficulty": "Brutal",
+        "rule_text": "A total prohibition on the tracking of human subjects. Not a single personal, possessive, demonstrative, or relative pronoun may enter the text. Human presence can only be implied through mechanical impact or material residue; the text must remain entirely objective and clinical."
+    },
+    {
+        "type": "Grammatical",
+        "name": "The Anaphoric Shift",
+        "difficulty": "Brutal",
+        "rule_text": "The writer must maintain a strict interlocking part-of-speech chain across the text. The final word of every line must be a specific part of speech, and that exact same part of speech must be used to open the subsequent line. The poem must form an unbroken, alternating linguistic circuit."
+    }
+]

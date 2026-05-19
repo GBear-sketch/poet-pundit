@@ -1,0 +1,212 @@
+[
+    {
+        "type": "Orthographic",
+        "name": "The Vertical Anchor",
+        "difficulty": "Easy",
+        "rule_text": "A standard acrostic constraint. The first letter of each line, when read sequentially from top to bottom, must spell out a concrete, single-syllable noun (e.g., 'RUST', 'COIN', 'BREAD'). The vertical spine must be perfectly integrated into the syntax without appearing forced."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Guttural Ban",
+        "difficulty": "Easy",
+        "rule_text": "The poet must completely exclude the letters 'K' and 'Q' from the text. This alphabetic restriction forces the vocabulary away from harsh, explosive Germanic or Latinate stops, forcing the text to find its rhythm through softer, sibilant or dental consonants."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Visual Margin",
+        "difficulty": "Easy",
+        "rule_text": "The text must be formatted so that each line is exactly one character longer than the line preceding it, creating a perfect, stepped diagonal margin along the right side of the page. Punctuation and spaces count as characters in this geometric alignment."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Monovocalic Strand",
+        "difficulty": "Easy",
+        "rule_text": "The user must pick exactly one vowel (e.g., 'A') and ensure it is the only vowel permitted to appear in the final word of every line. The rest of the poem may use standard vowels, but the rhyme or terminal positions are strictly gated by a single letter."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Capital Sentinels",
+        "difficulty": "Easy",
+        "rule_text": "Every line must contain exactly one capitalized word, and that word must never occur at the beginning of the line. The capitalization must be grammatically justified (proper nouns, specific titles), forcing an irregular visual capitalization pattern down the page."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Consonantal Squeeze",
+        "difficulty": "Easy",
+        "rule_text": "The poem must consist of exactly five lines, and the total count of consonants in each line must be exactly twice the count of vowels. The writer must monitor the alphabetic balance meticulously; a single stray vowel collapses the ratio."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Short-Form Baseline",
+        "difficulty": "Easy",
+        "rule_text": "Every single word used across the entire submission must be strictly under six letters in length. Long, multi-syllable academic words are stripped from the lexicon, forcing a stark, minimalist visual text built from small typographic blocks."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Oulipian Lipogram",
+        "difficulty": "Medium",
+        "rule_text": "A severe lexical filtration. The letter 'E'—the most common character in the English language—is completely banned from the submission. Not a single token containing this letter may enter the text. The vocabulary must be entirely re-mapped around this structural void."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Rotational Vowel",
+        "difficulty": "Medium",
+        "rule_text": "The writer must rotate the dominant vowel of each stanza. Stanza one must only use the vowel 'A' across all its words; stanza two must switch exclusively to 'O'; stanza three must lock into 'I'. Consonants are unrestricted, but vocalic variation within stanzas is illegal."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Numeric Frame",
+        "difficulty": "Medium",
+        "rule_text": "The total character count of each line (including spaces and punctuation) must correspond exactly to a pre-set numeric sequence: 20, 15, 10, 5, 10, 15, 20. This visual architecture forces the poem into a symmetrical, hourglass-shaped typographic block on the page."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Sibilant Excision",
+        "difficulty": "Medium",
+        "rule_text": "The poet must completely excise the letter 'S' and 'Z' from the text. Pluralizations, possessives, and common verbs must be completely re-engineered to avoid these characters, stripping the poem of all natural sibilance and forcing alternative grammatical paths."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Abecedarian Descent",
+        "difficulty": "Medium",
+        "rule_text": "The poem must contain exactly twenty-six words. Crucially, the first word must begin with 'A', the second with 'B', the third with 'C', moving sequentially down the alphabet until the twenty-sixth word terminates the poem with 'Z'. Sentence structure must remain coherent."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Isogrammatic Lock",
+        "difficulty": "Medium",
+        "rule_text": "The final word of every line in the poem must be a strict isogram, meaning a word that contains no repeating letters (e.g., 'RUST', 'CLOTH', 'MARKET'). The terminal architecture must remain typographically unblemished by duplication."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Liquid Quarantine",
+        "difficulty": "Medium",
+        "rule_text": "The letters 'L', 'M', 'N', and 'R'—the primary liquid and nasal consonants that give English speech its fluid cadence—are entirely prohibited. The text must construct its imagery using hard plosives and dentals, rendering a harsh, jagged text."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Centered Splay",
+        "difficulty": "Medium",
+        "rule_text": "When the poem is left-aligned on the page, the exact middle letter of each line must align vertically to form a straight line of matching characters (e.g., all middle letters are 'T'). The lengths of the surrounding words must be calculated precisely to maintain the axis."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The No-Tail Prohibition",
+        "difficulty": "Medium",
+        "rule_text": "A visual layout rule. The poet is forbidden from using any lowercase letters with descenders—meaning characters that dip below the baseline: 'g', 'j', 'p', 'q', and 'y' are illegal. The text on the page must sit flat along a perfectly straight lower line."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Double-Gate Acrostic",
+        "difficulty": "Hard",
+        "rule_text": "The first letters of each line, read from top to bottom, must spell a specific noun (e.g., 'LOCK'). Simultaneously, the final letters of each line, read from top to bottom, must spell an entirely separate, opposing noun (e.g., 'KEY'). Both vertical matrices must be flawless."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Tautogrammatic Grid",
+        "difficulty": "Hard",
+        "rule_text": "Every single word within a given line must begin with the exact same letter. Line one must feature only words starting with 'B'; line two must feature only words starting with 'C'; line three shifts to 'S'. The syntax must remain robust and avoid nonsense lists."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Univocalic Cage",
+        "difficulty": "Hard",
+        "rule_text": "The ultimate lipogram. The writer is permitted to use only one vowel throughout the entire text (e.g., only 'O' is allowed; 'A', 'E', 'I', and 'U' are completely banned). Words like 'iron', 'stone', 'cold', and 'floor' must carry the narrative weight alone."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Mesostic Axis",
+        "difficulty": "Hard",
+        "rule_text": "A hidden word must be embedded vertically down the exact center of the poem. The third letter of line one, the fourth letter of line two, the fifth letter of line three (tracing a custom diagonal or straight line) must spell out a hidden name or concept when extracted."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Interlocking Anagram",
+        "difficulty": "Hard",
+        "rule_text": "The poem must consist of exactly four lines. Line one can be written freely. However, lines two, three, and four must be composed using an exact rearrangement of the identical letter matrix used in line one. No letters may be added, omitted, or substituted."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Visual Sieve",
+        "difficulty": "Hard",
+        "rule_text": "The writer must construct a poem where no two adjacent words share a single letter in common. If word one is 'THE', then word two cannot contain 'T', 'H', or 'E' (e.g., 'THE OAK'). This constraint completely disrupts standard phonetic and linguistic pairs."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Non-Repeating Alphabet",
+        "difficulty": "Hard",
+        "rule_text": "The entire poem must be a strict pan-isogram. Across the entire submission, no single letter of the English alphabet may be used more than once. The entire poetic statement must be completed within a maximum allowance of twenty-six distinct characters."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Rhopalic Escalation",
+        "difficulty": "Hard",
+        "rule_text": "Each line of the poem must follow a strict orthographic growth rule. Word one must be exactly one letter long; word two must be two letters long; word three must be three letters, continuing up to the final word of the line. The length of the word must dictate the syntax."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Constrained Calligraphy",
+        "difficulty": "Hard",
+        "rule_text": "The writer must avoid all letters that require a circular pen stroke. The characters 'O', 'Q', 'C', 'G', 'D', 'B', and 'P' are completely outlawed. The resulting text must look entirely angular, sharp, and linear when rendered on the screen, matching a stark aesthetic."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Symmetrical Palindrome",
+        "difficulty": "Brutal",
+        "rule_text": "The entire poem, from the first character to the final character, must read exactly the same forward and backward, ignoring spaces and punctuation. The semantic narrative must remain coherent, balancing a complex philosophical tension while maintaining perfect character inversion."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Matrix Tautogram",
+        "difficulty": "Brutal",
+        "rule_text": "A brutal advancement of the line-tautogram. Every word across the entire poem must begin with the exact same consonant cluster (e.g., 'STR'). Words like 'street', 'strain', 'strip', 'stratum' must be woven into a pristine grammatical and thematic structure without exception."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Letter-Count Isosyllabic Grid",
+        "difficulty": "Brutal",
+        "rule_text": "The poem must form a perfect typographic square down to the character scale. The submission must consist of exactly ten lines; every line must contain exactly ten words, and every single word across the entire text must be exactly five letters long. No spaces can vary."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Alternating Lipogrammatic Vise",
+        "difficulty": "Brutal",
+        "rule_text": "The lines of the poem must oscillate between completely separate vowel pools. Odd-numbered lines (1, 3, 5) are strictly forbidden from using 'E' or 'I'. Even-numbered lines (2, 4, 6) are strictly forbidden from using 'A' or 'O'. The vocabulary must switch gears continuously."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Cento Matrix",
+        "difficulty": "Brutal",
+        "rule_text": "The user must construct a poem entirely out of exact typographic fragments clipped from a public corporate ledger or instruction manual. Not a single character of original text may be introduced; the poetry must emerge solely through the spatial rearrangement of existing administrative print."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Knight's Tour Typo",
+        "difficulty": "Brutal",
+        "rule_text": "The poem must look like a standard stanza. However, if the reader maps the first letter of each word to grid coordinates on a chessboard layout, those letters must trace a perfect, uninterrupted Knight's Tour sequence across the space, hiding a geometric game within the text."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Phonetic Palindrome",
+        "difficulty": "Brutal",
+        "rule_text": "Unlike a standard character palindrome, this poem must read identically forward and backward when pronounced phonetically out loud, matching sound for sound rather than letter for letter. Slant phonetics or dialect variances will be brutally marked down by the Pundit."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Visual Erasure Cryptogram",
+        "difficulty": "Brutal",
+        "rule_text": "The poet must write a poem of exactly four lines. If the user applies a digital mask that erases every second character across the page, the remaining characters must coalesce into a separate, grammatically correct micro-poem that comments directly on the failure of the first."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Absolute Monoliteral Wall",
+        "difficulty": "Brutal",
+        "rule_text": "A constraint born of absolute structural madness. The poet must present a five-line stanza where every line contains a word, but the total unique letter count across the entire text is restricted to a maximum of exactly seven distinct characters from the alphabet, repeated infinitely."
+    },
+    {
+        "type": "Orthographic",
+        "name": "The Pangrammatic Squeeze",
+        "difficulty": "Brutal",
+        "rule_text": "The submission must consist of exactly a single sentence structured into four lines. This sentence must be a perfect holalphabetic pangram, using every single one of the twenty-six letters of the English alphabet exactly once. Not a single duplication or omission is tolerated."
+    }
+]

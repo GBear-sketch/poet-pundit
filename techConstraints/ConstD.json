@@ -1,0 +1,206 @@
+[
+    {
+        "type": "Vocabulary",
+        "name": "The Botanical Annexation",
+        "difficulty": "Easy",
+        "rule_text": "The poet must explicitly weave exactly three precise terms from systemic botany (e.g., 'petiole', 'mycorrhizal', 'stamen') into a text that otherwise details a modern, concrete urban landscape. The integration must be seamless, avoiding the appearance of a random checklist."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Maritime Logistics Protocol",
+        "difficulty": "Easy",
+        "rule_text": "The submission must incorporate exactly three operational terms from modern commercial maritime shipping (e.g., 'AIS transponder', 'TEU capacity', 'bilge ballast'). The vocabulary must be used with technical accuracy, anchoring a personal narrative in heavy global transit mechanics."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Legal Subsumption",
+        "difficulty": "Easy",
+        "rule_text": "The writer must integrate exactly three formal terms from contract or tort law (e.g., 'indemnification', 'force majeure', 'severability') into a poem about a domestic or familial dispute. The clinical legal jargon must act as an emotional filter across the lines."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Culinary Blueprint",
+        "difficulty": "Easy",
+        "rule_text": "The text must feature exactly three hyper-specific terms from classical French culinary preparation (e.g., 'brunoise', 'deglaze', 'miseenplace'). The kitchen terminology must be weaponized to describe a moment of social calculation or internal engineering."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Architectural Scaffolding",
+        "difficulty": "Easy",
+        "rule_text": "The poet must introduce exactly three precise structural terms from gothic or brutalist masonry (e.g., 'flying buttress', 'board-marked concrete', 'clerestory') into a short poem analyzing a psychological state, establishing a heavy material framework for the mind."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Aviation Manifest",
+        "difficulty": "Easy",
+        "rule_text": "The poem must feature exactly three distinct aeronautical terms (e.g., 'yaw', 'pitottube', 'groundeffect') used accurately within a narrative concerning human communication or relational drift, treating conversational failure like a mechanical malfunction."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Geological Strata",
+        "difficulty": "Easy",
+        "rule_text": "The writer must embed exactly three specific terms from deep-time lithology (e.g., 'orogeny', 'craton', 'unconformity') into a poem about memory, forcing a sudden, massive scaling of time onto a fleeting, individual human perspective."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Financial Transmutation",
+        "difficulty": "Medium",
+        "rule_text": "The user must employ a precise term from high-frequency trading or market valuation (e.g., 'liquidity squeeze', 'depreciation', 'arbitrage') to define a profound emotional crisis or romantic betrayal. The language of capital must completely overwrite the vocabulary of affection."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Metallurgical Temper",
+        "difficulty": "Medium",
+        "rule_text": "The poet must take technical vocabulary from the chemistry of steel production and metalworking (e.g., 'quenching', 'martensite', 'decarburization') and apply it directly to describe the somatic weathering of a human body under prolonged institutional stress."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Hydraulic Variable",
+        "difficulty": "Medium",
+        "rule_text": "The submission must weaponize the terminology of fluid mechanics and municipal waste management (e.g., 'cavitation', 'turbulent flow', 'head loss') to map out the psychological unravelling of a silent domestic routine during an argument."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Surgical Incision",
+        "difficulty": "Medium",
+        "rule_text": "The writer must use the clinical vocabulary of invasive pathology or surgical anatomy (e.g., 'cauterize', 'necrosis', 'anastomosis') to dissect a sudden social rupture or the termination of a multi-year friendship, stripping the event of soft sentimentality."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Optical Aberration",
+        "difficulty": "Medium",
+        "rule_text": "The poem must integrate technical terms from lens physics and camera engineering (e.g., 'chromatic aberration', 'focal plane', 'depth of field') to explain a distorted childhood memory or an ideological bias, treating human recall as a flawed mechanical capture."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Actuarial Equation",
+        "difficulty": "Medium",
+        "rule_text": "The user must apply the sterile language of mortality risk calculation and insurance underwriting (e.g., 'morbidity rate', 'liability ceiling', 'indemnity period') to analyze the quiet calculation of an aging person assessing their remaining years of autonomy."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Thermodynamic Tax",
+        "difficulty": "Medium",
+        "rule_text": "The text must utilize the foundational laws of thermal physics (e.g., 'entropy', 'enthalpy', 'thermal dissipation') to chart the gradual cooling of a shared household after a long-term partner has mentally or physically packed away their life."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Structural Failure Formula",
+        "difficulty": "Medium",
+        "rule_text": "The poet must employ the language of material stress testing and civil fracture physics (e.g., 'tensile strength', 'shear stress', 'elastic limit') to diagnose the exact moment an individual's psychological resilience collapses under economic duress."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Telecommunications Static",
+        "difficulty": "Medium",
+        "rule_text": "The user must use digital signal processing terms (e.g., 'attenuation', 'bitrate drop', 'packet loss') to articulate the absolute breakdown of a long-distance voice conversation over a mobile network, treating emotional drift as a bandwidth failure."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Petrochemical Refinement",
+        "difficulty": "Medium",
+        "rule_text": "The submission must integrate the technical vocabulary of crude oil fractional distillation (e.g., 'cracking', 'sweet crude', 'bitumen fraction') to describe the psychological process of stripping a chaotic personal memory down into a cold, transactional truth."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Archaic Excavation",
+        "difficulty": "Hard",
+        "rule_text": "The user must introduce exactly three authentic, obsolete Middle English or early modern words (e.g., 'welkin', 'sweven', 'ruth') into a poem addressing a modern, highly technical setting like an airport terminal or corporate boardroom, weaving the dead tokens seamlessly into modern syntax."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Myrmecological Lexicon",
+        "difficulty": "Hard",
+        "rule_text": "The poet must integrate highly specialized terms from the study of social insect systems (e.g., 'stigmergy', 'trophallaxis', 'petiole') to describe the collaborative, unfeeling movements of human office workers rushing through a metropolitan transit hub."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Chronological Anachronism",
+        "difficulty": "Hard",
+        "rule_text": "The writer must split the vocabulary across a chronological line: odd-numbered lines must exclusively use words that entered the English language prior to the 14th century, while even-numbered lines must utilize modern, post-2000 digital technological vocabulary."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Anatomical Dissection",
+        "difficulty": "Hard",
+        "rule_text": "Every line of the poem must contain exactly one precise, non-layman Latinate name for a specific bone, muscle, or nerve pathway (e.g., 'zygomaticus', 'sphenoid bone'). The anatomical term must serve as the structural anchor around which the line's emotional image is built."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Cartographic Grid",
+        "difficulty": "Hard",
+        "rule_text": "The poem must employ specialized technical terms from topographical surveying and map projections (e.g., 'bathymetry', 'loxodrome', 'isogonic line') to chart the changing, unbridgeable emotional distance between two former allies living in separate hemispheres."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Toxicological Profile",
+        "difficulty": "Hard",
+        "rule_text": "The writer must integrate the specific terminology of forensic chemical pathology (e.g., 'lethal dose', 'bioaccumulation', 'half-life clearance') into a poem detailing the psychological residue of an abusive environment, treating memory as a heavy metal poisoning."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Cryptographic Cipher",
+        "difficulty": "Hard",
+        "rule_text": "The poem must structure its narrative using specialized terms from computer encryption and security architecture (e.g., 'hash function', 'bruteforce attack', 'privatekey'). The technical jargon must describe an individual's frantic effort to isolate their internal thoughts from observation."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Linguistic Necropolis",
+        "difficulty": "Hard",
+        "rule_text": "The poet must construct a poem where at least five major active verbs are pulled exclusively from dead, unvocalized liturgical or legal documents (e.g., 'escheat', 'attorn'). The words must be handled with grammatical accuracy, asserting an ancient, legalistic gravity over a modern scene."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Meteorological Vortex",
+        "difficulty": "Hard",
+        "rule_text": "The text must integrate advanced dynamic terminology from atmospheric science (e.g., 'cyclogenesis', 'adiabatic cooling', 'baroclinic instability') to analyze the sudden, explosive manifestation of an unprovoked household rage over a minor domestic mishap."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Quantum Elegiac",
+        "difficulty": "Brutal",
+        "rule_text": "The poet must write a heart-wrenching, deeply serious elegiac lament for a catastrophic personal loss using exclusively the technical vocabulary of quantum mechanics and subatomic particle physics (e.g., 'superposition', 'quantum entanglement', 'hadron decay'). No standard vocabulary of mourning is permitted."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Manufacturing Monolith",
+        "difficulty": "Brutal",
+        "rule_text": "The entire poem must follow an unyielding vocabulary constraint: every single noun and verb across the text must be pulled from an industrial textbook on lean manufacturing, automated logistics, and supply chain assembly line operations (e.g., 'throughput optimization', 'bottleneck extraction')."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Astronomical Iron Cage",
+        "difficulty": "Brutal",
+        "rule_text": "The writer must construct a traditional, highly intimate domestic poem about a parent’s decline, but the text is strictly gated by astronomical and deep-space physical nomenclature (e.g., 'redgiant phase', 'degenerate matter', 'gravitational collapse'). The human scale must be entirely swallowed by stellar scale."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Chemical Synthesis Matrix",
+        "difficulty": "Brutal",
+        "rule_text": "A brutal linguistic parameter where the text must mimic a laboratory protocol for organic molecular synthesis. The poem must utilize precise vocabulary from biochemistry and reagent reactions (e.g., 'nucleophilic attack', 'esterification') to describe a visceral, sweaty moment of intense sexual connection."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Advanced Microarchitecture Loop",
+        "difficulty": "Brutal",
+        "rule_text": "The poet must deliver a six-line stanza where every line incorporates specialized terminology from silicon microchip engineering and transistor architecture (e.g., 'photolithography', 'gate oxide failure', 'logic gate degradation') to articulate the gradual cognitive failure of an aging memory."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Epidemiological Quarantine",
+        "difficulty": "Brutal",
+        "rule_text": "The poem must chart the slow dissolution of a multi-decade civic community using strictly the language of viral epidemiology, transmission modeling, and systemic containment protocols (e.g., 'basic reproduction number', 'vector tracking', 'fomite transmission'). The social decay must feel automated."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Pure Mathematical Void",
+        "difficulty": "Brutal",
+        "rule_text": "A total prohibition on sensory language. The poet is forbidden from using any words that describe color, texture, sound, or physical human shape. The entire poem must communicate its narrative of absolute grief using strictly the language of abstract set theory, calculus, and non-Euclidean geometry."
+    },
+    {
+        "type": "Vocabulary",
+        "name": "The Agro-Industrial Tonnage",
+        "difficulty": "Brutal",
+        "rule_text": "The submission must execute a complex narrative concerning individual spiritual alienation, but the vocabulary is completely bound to a corporate ledger tracking mass agro-industrial commodity yields, chemical fertilizers, and automated harvesting equipment configurations (e.g., 'anhydrous ammonia', 'bushel extraction')."
+    }
+]
