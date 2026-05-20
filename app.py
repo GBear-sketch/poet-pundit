@@ -441,7 +441,7 @@ if st.session_state.game_stage == "intro":
     with col_img2:
         try:
             st.markdown("<div style='border: 1px solid #3c3830; padding: 10px; background-color: #161614; margin-bottom: 30px;'>", unsafe_allow_html=True)
-            st.image("Gemini_Generated_Image_n61thtn61thtn61t.png", use_container_width=True)
+            st.image("Gemini_Generated_Image_n61thtn61thtn61t.png", width="stretch")
             st.markdown("</div>", unsafe_allow_html=True)
         except Exception:
             pass # Fallback if image path is wrong
